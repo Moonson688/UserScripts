@@ -1,8 +1,8 @@
-[☯️](https://greasyfork.org/scripts/438684 "Install from greasyfork")東方永頁機 [v.1.9.36.88](https://greasyfork.org/scripts/438684-pagetual/code/Pagetual.user.js "Latest version")
+[☯️](https://greasyfork.org/scripts/438684 "Install from greasyfork")東方永頁機 [v.1.9.36.88](https://greasyfork.org/scripts/438684-pagetual/code/Pagetual.user.js "Latest version") 
 ==
 *Pagetual - Perpetual pages. Auto loading paginated web pages for 90% of all web sites !* [**📖Guide**](https://pagetual.hoothin.com/en/ "Wiki site for pagetual")
 
-<a name="otherconfig" title="For restricted environment" href="https://pagetual.hoothin.com/en/rule.html"><strong>🔧CONFIGURATION PAGE🔧</strong></a>
+<a name="otherconfig" title="For restricted environment" href="https://pagetual.hoothin.com/en/rule.html"><strong>🔧CONFIGURATION PAGE🔧</strong></a> 
 
 <p name="click2import"></p>
 <pre name="pagetual">
@@ -16,7 +16,8 @@ https://raw.githubusercontent.com/hoothin/UserScripts/master/Pagetual/pagetualRu
         <th colspan="4">Buy me a coffee if you get help💞</th>
     </tr>
     <tr>
-        <td><a href="https://paypal.me/hoothin"><img src="https://www.paypal.me/favicon.ico"><br>PayPal</a></td><td><a href="https://ko-fi.com/hoothin"><img src="https://ko-fi.com/favicon-32x32.png"><br>Ko-fi</a></td><td><a href="https://afdian.net/@hoothin"><img src="https://static.afdiancdn.com/favicon.ico"><br>愛發電</a></td>
+        <td><a href="https://paypal.me/hoothin"><img src
+="https://www.paypal.me/favicon.ico"><br>PayPal</a></td><td><a href="https://ko-fi.com/hoothin"><img src="https://ko-fi.com/favicon-32x32.png"><br>Ko-fi</a></td><td><a href="https://afdian.net/@hoothin"><img src="https://static.afdiancdn.com/favicon.ico"><br>愛發電</a></td>
         <td rowspan="3"><img src="https://s2.loli.net/2023/02/06/afTMxeASm48z5vE.jpg" alt="donate"></td>
     </tr>
     <tr>
